@@ -70,8 +70,13 @@ $ vagrant up --provider=vmware_esxi ##запуск виртуальной маш
 
 
 Использованные репы:
+
 Коротко: https://github.com/dgt20u186/lab10-1
+
 С комментами: https://github.com/dgt20u186/lab10-2
+
 С тем, что выводит: https://github.com/dgt20u186/lab10-2
+
 С комментами: https://gist.github.com/SCLOUDFER/e02e7505b00ada6258b4bc551fa08833
+
 Содержимое файла: https://github.com/hashicorp/vagrant/blob/main/Vagrantfile
