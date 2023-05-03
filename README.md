@@ -80,3 +80,5 @@ $ vagrant up --provider=vmware_esxi ##запуск виртуальной маш
 С комментами: https://gist.github.com/SCLOUDFER/e02e7505b00ada6258b4bc551fa08833
 
 Содержимое файла: https://github.com/hashicorp/vagrant/blob/main/Vagrantfile
+
+Со скачиванием Virtualbox: https://gist.github.com/gittut-7/0084ef73af05421d5887358d4299c9cf
