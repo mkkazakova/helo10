@@ -14,6 +14,9 @@ $ mkdir shared
 ```
 
 ```
+vagrant plugin install vagrant-vbguest --plugin-clean-sources --plugin-source https://rubygems.org
+```
+```
 $ cat > Vagrantfile <<EOF
 \$script = <<-SCRIPT
 sudo apt install docker.io -y
