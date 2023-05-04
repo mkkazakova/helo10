@@ -16,6 +16,10 @@ $ mkdir shared
 ```
 vagrant plugin install vagrant-vbguest --plugin-clean-sources --plugin-source https://rubygems.org
 ```
+
+![image](https://user-images.githubusercontent.com/125077130/236240513-2e0b7ab3-8dba-48e5-821f-8d6a3f72e4de.png)
+
+
 ```
 $ cat > Vagrantfile <<EOF
 \$script = <<-SCRIPT
